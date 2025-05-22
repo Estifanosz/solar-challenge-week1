@@ -1,6 +1,6 @@
-# 🌞 Solar Challenge Week 1 – Git & Environment Setup
+#  Solar Challenge Week 1 – Git & Environment Setup
 
-## 📁 Folder Structure
+##  Folder Structure
 
 ```bash
 solar-challenge-week1/
@@ -65,7 +65,7 @@ python -m venv venv
 pip install -r requirements.txt
 ```
 
-🔁 Continuous Integration (CI)
+Continuous Integration (CI)
 
 This project uses GitHub Actions to run a basic CI pipeline.
 
@@ -84,7 +84,7 @@ The pipeline:
 - Installs requirements
 
 - Verifies Python installation
-  📌 Project Context
+  Project Context
 
 This repository will be extended with:
 
@@ -98,7 +98,7 @@ This repository will be extended with:
 
 Stay tuned as more tasks are completed throughout the challenge!
 
-📚 References
+References
 
     10 Academy
 
@@ -106,6 +106,6 @@ Stay tuned as more tasks are completed throughout the challenge!
 
     Python venv Docs
 
-👤 Author
+Author
 
     Estifanos Zerihun
