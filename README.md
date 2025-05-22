@@ -41,23 +41,8 @@ python -m venv venv
 
 3. Activate the environment
 
-   - On Windows (PowerShell):
-
-   ```bash
-   .\venv\Scripts\Activate.ps1
-   ```
-
-   \*On Windows (CMD):
-
-   ```bash
    venv\Scripts\activate.bat
-   ```
 
-   - On Linux/macOS:
-
-   ```bash
-   source venv/bin/activate
-   ```
 
 4. Install dependencies
 
@@ -90,21 +75,10 @@ This repository will be extended with:
 
 - Exploratory Data Analysis (EDA) notebooks
 
-- Streamlit dashboards
-
 - Data processing scripts
 
-- Unit tests for reliability
 
-Stay tuned as more tasks are completed throughout the challenge!
 
-References
-
-    10 Academy
-
-    GitHub Actions Docs
-
-    Python venv Docs
 
 Author
 
